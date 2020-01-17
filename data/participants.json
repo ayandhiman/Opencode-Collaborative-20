@@ -104,6 +104,18 @@
         "twitter" : "",
         "referral" : "Seniors"
      }
+	{
+	
+         "name" : "Ayan Dhiman",
+        "imageurl" : "https://github.com/ayandhiman",
+        "about" : "Hello I'm a learner",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/ayandhiman?tab=repositories",
+        "twitter" : "",
+        "referral" : ""
+	
+	},
 
 ]
 
